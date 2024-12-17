@@ -2,7 +2,7 @@
 
 import { motion } from 'framer-motion';
 import { Award, Code2, Gauge, Cpu } from 'lucide-react';
-import { Card } from '@/components/ui/card';
+import { Card } from 'components/ui/card';
 
 const reasons = [
   {
